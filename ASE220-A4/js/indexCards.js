@@ -11,7 +11,7 @@ var Dogs =
         "gender": "Male",
         "age": "2Yrs 1Mths 2Wks (approx)",
         "animalid": "20579",
-        "image": "imgs/Wishbone.png",
+        "image": "imgs/Wishbone.PNG",
     },
     {
         "name": "Benny",
@@ -20,7 +20,7 @@ var Dogs =
         "gender": "Male",
         "age": "2Yrs 1Mths 4Wks (approx)",
         "animalid": "23531",
-        "image": "imgs/Benny.png",
+        "image": "imgs/Benny.PNG",
     },
     {
         "name": "Cornelia",
@@ -38,7 +38,7 @@ var Dogs =
         "gender": "Male",
         "age": "3Mths 3Wks",
         "animalid": "23541",
-        "image": "imgs/Niko.png",
+        "image": "imgs/Niko.PNG",
     },
     {
         "name": "Howard",
@@ -47,7 +47,7 @@ var Dogs =
         "gender": "Male",
         "age": "",
         "animalid": "23882",
-        "image": "imgs/Howard.png",
+        "image": "imgs/Howard.PNG",
     },
     {
         "name": "Hemingway",
@@ -56,7 +56,7 @@ var Dogs =
         "gender": "Male",
         "age": "3Yrs 3Wks (approx)",
         "animalid": "23897",
-        "image": "imgs/Hemingway.png",
+        "image": "imgs/Hemingway.PNG",
     },
 ];
 
