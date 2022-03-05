@@ -1,0 +1,64 @@
+.container 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.item 
+{
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.jumbotron 
+{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.card 
+{
+  flex-direction: row;
+  align-items: center;
+}
+.card-title 
+{
+  font-weight: bold;
+}
+.leftImg
+{
+  width: 30%;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: calc(0.25rem - 1px);
+}
+
+.rightImg
+{
+  width: 250;
+  position:relative; 
+  left: -120%; 
+  top: -130px;
+}
+
+b 
+{
+  padding-right:10px;
+}
+
+.dog-size 
+{
+  padding-bottom: 20px;
+}
+
+.dog-animalIdTitle 
+{
+  padding-top: 20px;
+}
+
+.address
+{
+  padding-bottom: 20px;
+}
