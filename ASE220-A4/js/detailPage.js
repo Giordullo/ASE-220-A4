@@ -20,7 +20,7 @@ var Dogs =
 
         "aboutme": "Wishbone is a super sweet playful guy! He is around a 2 years old, but is still very much a puppy. He loves people and he, like any youngster, will need basic manner training and a patient home willing to put their time and energy into him. Wishbone also seems to play well with other dogs! His perfect doggy pal would be one that can keep up yet be tolerant of his playful antics. He would benefit from a home willing to exhaust his energy and keep him active . Wishbone might jump on you or play mouth because he is young and still learning. Wishbone will require a home with children 13 years and older because he gets so playful and excited he doesn't realize his size and strength. He truly is a smart young man just needs the right home to spoil him rotten! My past owner went through the process of getting me registered as an Emotional Support Animal as well! And I have the Certificate to prove it!",
 
-        "image": "imgs/Wishbone.png",
+        "image": "imgs/Wishbone.PNG",
     },
     {
         "name": "Benny",
@@ -42,7 +42,7 @@ var Dogs =
 
         "aboutme": "",
 
-        "image": "imgs/Benny.png",
+        "image": "imgs/Benny.PNG",
     },
     {
         "name": "Cornelia",
@@ -86,7 +86,7 @@ var Dogs =
 
         "aboutme": "",
 
-        "image": "imgs/Niko.png",
+        "image": "imgs/Niko.PNG",
     },
     {
         "name": "Howard",
@@ -108,7 +108,7 @@ var Dogs =
 
         "aboutme": "",
 
-        "image": "imgs/Howard.png",
+        "image": "imgs/Howard.PNG",
     },
     {
         "name": "Hemingway",
@@ -130,7 +130,7 @@ var Dogs =
 
         "aboutme": "",
 
-        "image": "imgs/Hemingway.png",
+        "image": "imgs/Hemingway.PNG",
     },
 ];
 
