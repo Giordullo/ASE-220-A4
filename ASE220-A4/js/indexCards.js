@@ -11,7 +11,7 @@ var Dogs =
         "gender": "Male",
         "age": "2Yrs 1Mths 2Wks (approx)",
         "animalid": "20579",
-        "image": "imgs/Wishbone.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Wishbone.PNG?raw=true",
     },
     {
         "name": "Benny",
@@ -20,7 +20,7 @@ var Dogs =
         "gender": "Male",
         "age": "2Yrs 1Mths 4Wks (approx)",
         "animalid": "23531",
-        "image": "imgs/Benny.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Benny.PNG?raw=true",
     },
     {
         "name": "Cornelia",
@@ -29,7 +29,7 @@ var Dogs =
         "gender": "Female",
         "age": "6Yrs 2Mths 3Wks (approx)",
         "animalid": "23390",
-        "image": "imgs/Cornelia.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Cornelia.png?raw=true",
     },
     {
         "name": "Niko",
@@ -38,7 +38,7 @@ var Dogs =
         "gender": "Male",
         "age": "3Mths 3Wks",
         "animalid": "23541",
-        "image": "imgs/Niko.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Niko.PNG?raw=true",
     },
     {
         "name": "Howard",
@@ -47,7 +47,7 @@ var Dogs =
         "gender": "Male",
         "age": "",
         "animalid": "23882",
-        "image": "imgs/Howard.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Howard.PNG?raw=true",
     },
     {
         "name": "Hemingway",
@@ -56,7 +56,7 @@ var Dogs =
         "gender": "Male",
         "age": "3Yrs 3Wks (approx)",
         "animalid": "23897",
-        "image": "imgs/Hemingway.png",
+        "image": "https://github.com/Giordullo/ASE-220-A4/blob/main/ASE220-A4/imgs/Hemingway.PNG?raw=true",
     },
 ];
 
